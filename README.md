@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 👨‍💻 &nbsp;I am Currently Working at Mescalina Marketing Agency as Full Stack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying System Enginering at TECNM Huetamo .\
+🎓 &nbsp;I'm System Enginering from TECNM Huetamo .\
 🌱 &nbsp;I'm on track for learning more about Web Development, Software Architecture, Software Enginering, Cloud Computing & Machine Learning .\
 ✍️ &nbsp;In my free time, I am Freelancer developing Web Apps, Desk Apps or Mobile Apps .\
 
