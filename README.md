@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Mescalina Marketing Agency as Full Stack Developer.\
+👨‍💻 &nbsp;I am Currently Working at Marketing Agency as Full Stack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm System Enginering from TECNM Huetamo .\
 🌱 &nbsp;I'm on track for learning more about Web Development, Software Architecture, Software Enginering, Cloud Computing & Machine Learning .\
