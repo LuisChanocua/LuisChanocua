@@ -207,31 +207,6 @@ I build prototypes using ESP32, ESP32-CAM, sensors, motors, servos, buzzers, web
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LuisChanocua&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
-    alt="Luis Chanocua GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisChanocua&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Luis Chanocua Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LuisChanocua&theme=tokyonight&hide_border=true"
-    alt="Luis Chanocua GitHub Streak"
-  />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
